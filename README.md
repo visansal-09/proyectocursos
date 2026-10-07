@@ -30,3 +30,4 @@ Integrar modelos más avanzados de detección de series temporales (como redes L
 ## Agradecimientos
 - Inspirado en el proyecto de residencia profesional para el Instituto Tecnológico del Istmo.
 - Curso *Building AI* de Reaktor Innovations y la Universidad de Helsinki.
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/842aa6ea-06f5-4ced-a35a-ed0fc0ffe1e2" />
